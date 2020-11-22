@@ -21,7 +21,7 @@ This plugin has no web portal code.
 
 ## Installation
 
-In the game, run `plugin/install luckgive`.
+In the game, run `plugin/install <github url>`.
 
 It assumes that you are using the FS3Skills plugin and will not work without that plugin enabled.
 
@@ -32,3 +32,7 @@ There is no configuration for this plugin. Although there is a helpfile included
 ## Uninstalling
 
 Removing the plugin requires some code fiddling.  See [Uninstalling Plugins](https://www.aresmush.com/tutorials/code/extras.html#uninstalling-plugins).
+
+## License
+
+Same as [AresMUSH](https://aresmush.com/license).
